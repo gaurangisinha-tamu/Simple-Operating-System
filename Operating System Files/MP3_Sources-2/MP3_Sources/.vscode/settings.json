@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "console.C": "cpp",
-        "cont_frame_pool.H": "cpp",
-        "kernel.C": "cpp",
-        "simple_keyboard.C": "cpp"
-    }
-}
